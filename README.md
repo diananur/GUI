@@ -20,7 +20,7 @@ Output program :
 ![alt text](https://github.com/diananur/GUI/blob/master/3a.PNG)<br>
 
 4.latihan 4 <br>
-![alt text](https://github.com/diananur/GUI/blob/master/5a.PNG)<br>
+![alt text](https://github.com/diananur/GUI/blob/master/4a.PNG)<br>
 
 5. Kuis 1 <br>
 ![alt text](https://github.com/diananur/GUI/blob/master/5a.PNG)<br><br>
