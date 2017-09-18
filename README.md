@@ -3,8 +3,8 @@
 <br> Modul5 </br>
 -----------------------------------------
 
-Nama  : Diana Alfi Ainun Nur Khasanah
-Kelas : XI RPL 5
+Nama  : Diana Alfi Ainun Nur Khasanah<br><br>
+Kelas : XI RPL 5<br><br>
 No.Absen : 15
 
 -----------------------------------------
@@ -23,13 +23,13 @@ Output program :
 ![alt text](https://github.com/diananur/GUI/blob/master/5a.PNG)<br>
 
 5. Kuis 1 <br>
-![alt text](https://github.com/diananur/GUI/blob/master/5a.PNG)<br>
-![alt text](https://github.com/diananur/GUI/blob/master/5b.PNG)<br>
-![alt text](https://github.com/diananur/GUI/blob/master/5c.PNG)<br>
-![alt text](https://github.com/diananur/GUI/blob/master/5d.PNG)<br>
+![alt text](https://github.com/diananur/GUI/blob/master/5a.PNG)<br><br>
+![alt text](https://github.com/diananur/GUI/blob/master/5b.PNG)<br><br>
+![alt text](https://github.com/diananur/GUI/blob/master/5c.PNG)<br><br>
+![alt text](https://github.com/diananur/GUI/blob/master/5d.PNG)<br><br>
 
 6.Kuis 2 <br>
-![alt text](https://github.com/diananur/GUI/blob/master/6a.PNG)<br>
-![alt text](https://github.com/diananur/GUI/blob/master/6b.PNG)<br>
-![alt text](https://github.com/diananur/GUI/blob/master/6c.PNG)<br>
-![alt text](https://github.com/diananur/GUI/blob/master/6d.PNG)<br>
+![alt text](https://github.com/diananur/GUI/blob/master/6a.PNG)<br><br>
+![alt text](https://github.com/diananur/GUI/blob/master/6b.PNG)<br><br>
+![alt text](https://github.com/diananur/GUI/blob/master/6c.PNG)<br><br>
+![alt text](https://github.com/diananur/GUI/blob/master/6d.PNG)<br><br>
